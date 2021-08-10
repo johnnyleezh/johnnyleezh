@@ -7,7 +7,7 @@ To learn new skills and to improve myself.
     - - - - - - - - - - - -
 
     - - - - Technical Skills - - - -
-Web development skills (HTML, CSS, Javascript, Php, DOM, MySQL, etc)
+Web development skills (HTML, CSS, Javascript, Php, DOM, MySQL, Laravel, etc)
 Programming (C, C++, C#, Java, Javascript, etc)
 Microsoft Office (MS Word, Excel, Powerpoint, etc)
 E-Commerce setup (Shopee, Lazada, Facebook, and other platforms)
